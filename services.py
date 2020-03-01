@@ -1,4 +1,4 @@
-import tweepy_test
+import tweepy
 
 # tweepy auth function
 def tweepy_auth(API_KEY, API_SECRET, ACCESS_TOKEN, ACCESS_SECRET):
